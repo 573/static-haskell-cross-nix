@@ -1,1 +1,0 @@
-https://vaibhavsagar.com/blog/2018/01/03/static-haskell-nix/

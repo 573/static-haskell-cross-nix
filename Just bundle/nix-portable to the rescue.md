@@ -1,1 +1,0 @@
-https://github.com/nix-things-mobile/nix-portable/discussions/1
