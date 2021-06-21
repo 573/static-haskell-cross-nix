@@ -15,3 +15,4 @@ Other pages on this zettelkasten:
 - [[202106211539 - Using static-haskell-nix (postgrest approach)]]#
 - [[202106211542 - Using vaibhavsagar.com blog 2018 01 03 static-haskell-nix|Using vaibhavsagar.com]]#
 - [[202106211543 - Lost pages|Some cited sites that are lost]]#
+- [[202106211620 - Integrate Obsidian Git]]
