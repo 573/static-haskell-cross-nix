@@ -6,4 +6,5 @@
 , theme = "teal"
 -- This is used in the "edit" button
 , editUrl = Some "https://github.com/573/static-haskell-cross-nix/edit/master/"
+, plugins = [ "neuronignore", "links", "uptree", "feed" ,"tags"]
 }
